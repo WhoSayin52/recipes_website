@@ -1,0 +1,44 @@
+* {
+	font-family: 'Times New Roman', Times, serif;
+	font-size: large;
+	background-color: black;
+	color: green;
+	margin: 16px 8px;
+}
+
+h1 {
+	font-size: xx-large;
+	margin: 16px;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+}
+
+li {
+	margin: 8px;
+}
+
+.home-link a {
+	display: block;
+	width: 100px;
+	margin: 16px;
+	padding: 8px 16px;
+	border-style: solid;
+	border-width: 2px;
+	color: red;
+	text-align: center;
+}
+
+img {
+	width: 250px;
+	height: auto;
+	margin: 8px 16px;
+}
+
+p {
+	margin: 4px 8px;
+}
+
+a {
+	margin-right: 0px;
+	margin-left: 0px;
+}
